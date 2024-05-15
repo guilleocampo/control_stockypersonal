@@ -35,7 +35,7 @@
         </form>
     </div>
 <div class="form-container sign-in-container">
-        <form action="#" method="POST">
+        <form action="php/login_usuario_be.php" method="POST">
         <h1>Iniciar Sesión</h1>
         <div class="social-container">
             <a href="#" class="social">
@@ -49,8 +49,8 @@
             </a>
         </div>
         <span>o usa tu email</span>
-        <input type="email" placeholder="Email" />
-        <input type="password" placeholder="Password" />
+        <input type="email" name ="email" placeholder="Email" />
+        <input type="password" name="contrasena" placeholder="Password" />
         <a href="#">Olvidaste tu contraseña?</a>
         <button>Iniciar sesión</button>
         </form>
