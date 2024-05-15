@@ -24,6 +24,6 @@
 <body>
     <h1>Ingresaste a la pagina </h1>
     <a href="php/cerrar_sesion.php">Cerrar sesion</a>
-    <h2>Aca vamos a probar la rama para el incio de sesion.</h2>
+    <h2>Aca vamos a probar la rama para el incio de sesion</h2>
 </body>
 </html>
